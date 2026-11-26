@@ -1,0 +1,8 @@
+# Mrsam (مرسام)
+
+> Mrsam is an AI lab and software company in Saudi Arabia. It designs, builds and runs its own products. Its first product is Casho (كاشو), an online marketplace for Saudi Arabia with a shop, reels, live shows, auctions and trades, AI tools and payments held until the order arrives. The Casho iPhone app is coming soon to the App Store.
+
+Website: https://mrsam.io (English) and https://mrsam.io/ar/ (Arabic). Contact: info@mrsam.io.
+
+## Products
+- [Casho (كاشو)](https://appcasho.com/): marketplace for Saudi Arabia, Arabic and English
