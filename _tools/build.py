@@ -125,15 +125,16 @@ def page(c):
 <section class="section about" id="about"><div class="container">
 <div class="section__head"><h2>{e(c['about_h'])}</h2><div><p class="lead">{e(c['about_1'])}</p><p class="lead">{e(c['about_2'])}</p></div></div>
 </div></section>
-<section class="section contact well grained" id="contact"><div class="container">
+<section class="section contact well grained" id="contact"><div class="contact__body"><div class="container">
 <h2>{e(c['contact_h'])}</h2><p class="lead">{e(c['contact_p'])}</p>
 <a class="contact__mail" href="mailto:{CONTACT_EMAIL}">{CONTACT_EMAIL}</a>
-</div></section>
-</main>
+</div></div>
 <footer class="foot"><div class="container">
 <div><img src="{p}assets/mrsam-logo.svg" width="136" height="56" alt="{e(c['logo_alt'])}" loading="lazy"><p>{e(c['foot_p'])}</p><p>© 2026 {e(c['brand'])}</p></div>
 <nav aria-label="Footer">{foot}</nav>
 </div></footer>
+</section>
+</main>
 <script src="{p}assets/bg.js" defer></script>
 <script src="{p}assets/motion.js" defer></script>
 </body>
